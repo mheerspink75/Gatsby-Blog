@@ -26,7 +26,7 @@ gatsby develop
 
 [http://localhost:8000/](http://localhost:8000/)
 
-⠀
+
 *View GraphiQL, an in-browser IDE, to explore your site's data and schema*  
 
 [http://localhost:8000/___graphql](http://localhost:8000/___graphql)
@@ -57,4 +57,4 @@ ls public
 surge public/
 ```
 
-**Success! - Published to amuck-meat.surge.sh**
+**Success! - Published to [amuck-meat.surge.sh](http://amuck-meat.surge.sh/)**

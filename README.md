@@ -22,10 +22,15 @@ cd Gatsby-Blog && npm install
 gatsby develop
 ```
 
-*You can now view gatsby-blog in the browser.*  http://localhost:8000/
+*You can now view gatsby-blog in the browser.*  
+
+[http://localhost:8000/](http://localhost:8000/)
 
 ⠀
-*View GraphiQL, an in-browser IDE, to explore your site's data and schema*  http://localhost:8000/___graphql
+*View GraphiQL, an in-browser IDE, to explore your site's data and schema*  
+
+[http://localhost:8000/___graphql](http://localhost:8000/___graphql)
+
 
 **4.** Create the production build
 

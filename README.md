@@ -43,7 +43,9 @@ gatsby build
 ```bash
 gatsby serve
 ```
+
 info gatsby serve running at: http://localhost:9000/
+
 ---
 
 **Deploy to [Surge](https://surge.sh/)**

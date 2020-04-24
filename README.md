@@ -61,3 +61,9 @@ surge public/
 ```
 
 Success! - Published to [amuck-meat.surge.sh](http://amuck-meat.surge.sh/)
+
+***or***
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/93aa9331-93e4-442f-8272-0617593cd63f)
+
+[![Edit gatsby-blog](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/beautiful-hodgkin-njik6?fontsize=14&hidenavigation=1&theme=dark)

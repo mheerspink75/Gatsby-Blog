@@ -43,6 +43,7 @@ gatsby build
 ```bash
 gatsby serve
 ```
+info gatsby serve running at: http://localhost:9000/
 ---
 
 **Deploy to [Surge](https://surge.sh/)**
@@ -57,4 +58,4 @@ ls public
 surge public/
 ```
 
-**Success! - Published to [amuck-meat.surge.sh](http://amuck-meat.surge.sh/)**
+Success! - Published to [amuck-meat.surge.sh](http://amuck-meat.surge.sh/)
